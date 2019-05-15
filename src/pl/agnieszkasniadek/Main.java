@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Inne zmiany w kodzie");
         System.out.println("Hello my world!");
     }
+
+    public static void method() {
+        System.out.println("Metoda która nic nie robi :) ");
+    }
 }
